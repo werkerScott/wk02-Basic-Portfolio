@@ -74,8 +74,6 @@ nav a:active { color: #185b56; }
 
 
 
-
-
 /*  REGION - Top  */
 .top {
 	background: #fff;
@@ -268,6 +266,7 @@ footer {
 	background:#666;
 	padding:25px;
 	text-align: center;
+	border-top: 5px solid #4aaaa5;
 }
 
 
